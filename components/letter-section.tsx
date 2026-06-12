@@ -11,15 +11,14 @@ export function LetterSection() {
         <div className="mt-8 space-y-5 font-serif text-xl leading-relaxed text-foreground/85 sm:text-2xl">
           <p>Minha Nicolly,</p>
           <p>
-            Hoje é o nosso dia, mas a verdade é que todo dia ao seu lado já parece uma data
-            especial. Você deixa as coisas simples mais bonitas, e os dias difíceis mais leves.
+            Hoje é um dia especial, o dia dos namorados, mas a verdade é que todo dia ao seu lado já parece uma data
+            especial. Seria impossivel escrever tudo oque eu queria em um pequeno site como esse.
           </p>
           <p>
-            Obrigado por cada sorriso, cada abraço e cada momento que a gente construiu juntos.
-            Eu escolheria você de novo, sempre.
+            Então, aqui vai um "resumo"... Minha Linda, eu amo os seus magnificos cabelos vermelhos, os seus belissimos olhos marrons, esse seu sorriso radiante, a sua risada incrivel, adoro o seu jeitinho de ser, e amo como você é esforçada em tudo oque faz...
           </p>
           <p className="font-medium italic text-primary">
-            Com todo o meu amor, hoje e sempre. 💌
+            Com todo o meu amor, hoje e sempre. Eu Te Amo💌
           </p>
         </div>
       </div>
