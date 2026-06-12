@@ -24,9 +24,9 @@ export function LetterSection() {
       </div>
 
       <div className="mx-auto mt-16 flex max-w-3xl flex-wrap items-center justify-center gap-6">
-        <PhotoFrame rotate="-5deg" caption="nós dois" src="/nicolly-casal-1.jpg" alt="Nós dois juntinhos" className="w-44 sm:w-52" />
-        <PhotoFrame rotate="3deg" caption="seu sorriso" src="/nicolly-festa.jpg" alt="O sorriso da Nicolly" className="w-44 sm:w-52" />
-        <PhotoFrame rotate="-2deg" caption="a gente" src="/nicolly-casal-2.jpg" alt="A gente juntos" className="w-44 sm:w-52" />
+        <PhotoFrame rotate="-5deg" caption="Ó nois dois" src="/nicolly-casal-1.jpg" alt="Nós dois juntinhos" className="w-44 sm:w-52" />
+        <PhotoFrame rotate="3deg" caption="seu sorriso que eu amo tanto" src="/nicolly-festa.jpg" alt="O sorriso da Nicolly" className="w-44 sm:w-52" />
+        <PhotoFrame rotate="-2deg" caption="Oia a gente ai" src="/nicolly-casal-2.jpg" alt="A gente juntos" className="w-44 sm:w-52" />
       </div>
     </section>
   )
