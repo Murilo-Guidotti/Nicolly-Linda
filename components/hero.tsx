@@ -29,9 +29,9 @@ export function Hero() {
 
         <p className="font-serif text-2xl italic text-muted-foreground">Para a minha</p>
         <h1 className="text-balance font-serif text-6xl font-semibold leading-[0.95] text-primary sm:text-7xl md:text-8xl lg:text-9xl">
-          Nicolly Félix
+          Linda Namorada
         </h1>
-        <p className="mt-2 font-serif text-3xl italic text-foreground/70 sm:text-4xl">dos Santos</p>
+        <p className="mt-2 font-serif text-3xl italic text-foreground/70 sm:text-4xl">Nicolly Félix dos Santos</p>
 
         <p className="mt-8 max-w-md text-pretty font-sans text-base leading-relaxed text-muted-foreground">
           Fiz esse cantinho só pra você, pra guardar um pouquinho de tudo que eu sinto.
