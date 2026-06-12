@@ -18,7 +18,7 @@ export function Gallery() {
       <div className="mx-auto mt-16 grid max-w-5xl grid-cols-2 gap-5 sm:gap-8 md:grid-cols-3">
         <PhotoFrame rotate="-3deg" caption="o começo" src="/nicolly-onibus.jpg" alt="Nicolly na viagem" />
         <PhotoFrame rotate="2deg" caption="risadas" src="/nicolly-festa.jpg" alt="Nicolly sorrindo" className="md:mt-10" />
-        <PhotoFrame rotate="-1deg" caption="do nosso jeito" src="/nicolly-cozinha.jpg" alt="Nicolly cozinhando" />
+        <PhotoFrame rotate="-1deg" caption="A primeira vez na sua casa" src="/nicolly-cozinha.jpg" alt="Nicolly cozinhando" />
         <PhotoFrame rotate="3deg" caption="aconchego" src="/nicolly-moletom.jpg" alt="Nicolly aconchegada" className="md:mt-8" />
         <PhotoFrame rotate="-2deg" caption="você" src="/nicolly-cartas.jpg" alt="Nicolly jogando cartas" />
         <PhotoFrame rotate="1deg" caption="a gente" src="/nicolly-casal-2.jpg" alt="A gente juntos" className="md:mt-6" />
