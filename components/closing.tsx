@@ -9,14 +9,14 @@ export function Closing() {
           Eu te amo, Nicolly
         </h2>
         <p className="mt-6 max-w-md text-pretty font-sans text-lg leading-relaxed text-muted-foreground">
-          Obrigado por ser meu lar, minha paz e o meu amor preferido. Que a gente tenha
+          Obrigado por ser essa pessoa incrivel, meu amor. Que a gente tenha
           muitos e muitos Dias dos Namorados pela frente.
         </p>
         <p className="mt-8 font-serif text-2xl italic text-primary">Para sempre seu. 🤍</p>
       </div>
 
       <footer className="mt-20 font-sans text-xs uppercase tracking-widest text-muted-foreground">
-        feito com amor — 12 de junho
+        feito com amor — 12 de junho Dia dos Namorados.
       </footer>
     </section>
   )
