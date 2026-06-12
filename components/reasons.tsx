@@ -4,22 +4,22 @@ const reasons = [
   {
     icon: Heart,
     title: "Seu jeito",
-    text: "Do jeitinho que você é, com toda a sua doçura e a sua força ao mesmo tempo.",
+    text: "O seu jeitinho de ser, eu amo muito",
   },
   {
     icon: Sun,
     title: "Seu sorriso",
-    text: "Capaz de iluminar até os meus piores dias. É a minha parte preferida do dia.",
+    text: "Adoro ver esse sorriso, e de ouvir as suas risadas (coisa rara).",
   },
   {
     icon: Star,
     title: "Sua companhia",
-    text: "Porque com você até o tédio vira aventura, e o silêncio vira aconchego.",
+    text: "Acho que não preciso nem dizer, eu AMO estar com você",
   },
   {
     icon: Sparkles,
-    title: "Nós dois",
-    text: "Pela gente que a gente virou juntos. Eu não trocaria isso por nada.",
+    title: "Por ser quem você é",
+    text: "Meu orgulho de ver quem você é e quem você está se tornando, do quanto você se esforça nas coisas",
   },
 ]
 
