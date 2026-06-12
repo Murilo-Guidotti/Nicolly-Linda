@@ -21,7 +21,7 @@ export function PhotoFrame({ caption, rotate = "0deg", src, alt, className }: Ph
     >
       <div className="relative aspect-[4/5] w-full overflow-hidden rounded-sm bg-muted">
         {src ? (
-          <Image src={src || "/placeholder.svg"} alt={alt ?? caption ?? "Foto da Nicolly"} fill className="object-cover" />
+          <Image src={src || "/placeholder.svg"} alt={alt ?? caption ?? "Foto da Nicolly"} fill unoptimized className="object-cover" />
         ) : (
           <div className="flex h-full w-full flex-col items-center justify-center gap-2 text-muted-foreground">
             <Camera className="size-8" />
