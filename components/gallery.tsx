@@ -16,8 +16,8 @@ export function Gallery() {
       </div>
 
       <div className="mx-auto mt-16 grid max-w-5xl grid-cols-2 gap-5 sm:gap-8 md:grid-cols-3">
-        <PhotoFrame rotate="-3deg" caption="o começo" src="/nicolly-onibus.jpg" alt="Nicolly na viagem" />
-        <PhotoFrame rotate="2deg" caption="risadas" src="/nicolly-festa.jpg" alt="Nicolly sorrindo" className="md:mt-10" />
+        <PhotoFrame rotate="-3deg" caption="Os seus olhos" src="/nicolly-onibus.jpg" alt="Nicolly na viagem" />
+        <PhotoFrame rotate="2deg" caption="O seu Sorriso" src="/nicolly-festa.jpg" alt="Nicolly sorrindo" className="md:mt-10" />
         <PhotoFrame rotate="-1deg" caption="A primeira vez na sua casa" src="/nicolly-cozinha.jpg" alt="Nicolly cozinhando" />
         <PhotoFrame rotate="3deg" caption="A Aliança" src="/nicolly-anel.jpg" alt="Nicolly aliança" className="md:mt-8" />
         <PhotoFrame rotate="-2deg" caption="O seu lindo cabelo vermelho" src="/nicolly-cabelo.jpg" alt="Nicolly jogando cartas" />
